@@ -5,7 +5,5 @@ role: pi
 aliases:
 links:
   home-page: 
-  orcid: 0000-0001-8713-9213
+  orcid: 
 ---
-
-

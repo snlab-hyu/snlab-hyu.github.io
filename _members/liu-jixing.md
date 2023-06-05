@@ -1,9 +1,9 @@
 ---
-name: Seoyeon Lee
+name: LIU JIXING
 image: images/photo.jpg
 role: ms
 aliases:
 links:
   home-page: 
-  orcid: 
+  orcid: 0
 ---

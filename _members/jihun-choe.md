@@ -1,7 +1,7 @@
 ---
-name: Seoyeon Lee
+name: Jihun choe
 image: images/photo.jpg
-role: ms
+role: phd
 aliases:
 links:
   home-page: 

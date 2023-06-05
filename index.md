@@ -3,7 +3,7 @@
 
 # snlab@HYU's Website
 
-An engaging 1-3 sentence description of your lab.
+In our laboratory, we investigate various signaling pathways of the olfactory system while exploring the impact of olfactory signals on cognition and emotion. Additionally, we conduct research on the mechanisms underlying olfactory dysfunction caused by various factors.
 
 {% include section.html %}
 
