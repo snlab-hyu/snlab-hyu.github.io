@@ -17,9 +17,7 @@ layout: default
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
-<div style="width:15px; height:60px; float:left; ">
-  {{ content }}
-</div>
+
 
 {% assign aliases = page.aliases
 | default: page.name
@@ -32,12 +30,12 @@ layout: default
 {% capture search -%}
 research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
-
-<p class="center">
+<div style="width:30px; height:60px; float:left; ">
+  {{ content }}
   <a href="{{ search | relative_url }}">
     Search for {{ page.name | default: page.title }}'s papers on the Research page
   </a>
-</p>
+</div>
 
 {% capture search -%}
 blog/?search={{ page.name }}
