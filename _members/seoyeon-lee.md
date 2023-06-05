@@ -1,7 +1,7 @@
 ---
 name: Seoyeon Lee
 image: images/photo.jpg
-role: master candidate
+role: ms
 aliases:
 links:
   home-page: https://janesmith.com

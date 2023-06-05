@@ -1,7 +1,7 @@
 ---
 name: Ji-hoon Choi
 image: images/photo.jpg
-role: PhD candidate
+role: phd
 aliases:
 links:
   home-page: https://janesmith.com

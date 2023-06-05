@@ -1,7 +1,7 @@
 ---
 name: Jiwon Chae
 image: images/photo.jpg
-role: Master candidate
+role: ms
 aliases:
 links:
   home-page: https://janesmith.com

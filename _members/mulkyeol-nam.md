@@ -1,7 +1,7 @@
 ---
 name: Mulkyeol Nam
 image: images/photo.jpg
-role: intern
+role: undergrad
 aliases:
 links:
   home-page: https://janesmith.com
