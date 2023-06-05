@@ -1,6 +1,6 @@
 ---
 name: Seung-Jun Yoo
-image: images/photo.jpg
+image: images/members/seungjun-yoo.jpg
 role: pi
 aliases:
 links:
