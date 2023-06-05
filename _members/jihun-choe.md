@@ -1,5 +1,5 @@
 ---
-name: Jihun choe
+name: Jihun Choe
 image: images/photo.jpg
 role: phd
 aliases:
