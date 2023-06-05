@@ -16,6 +16,11 @@ layout: default
 
 {% endcapture %}
 
+<p class="center"></p>
+{% include float.html content=floatcontent %}
+{{ content }}
+</p>
+
 {% assign aliases = page.aliases
 | default: page.name
 | default: page.title
