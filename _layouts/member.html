@@ -17,9 +17,9 @@ layout: default
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
-<p style="margin-left:100px">
+<div style="width:30; height:60px; float:left; margin:30px;">
   {{ content }}
-</p>
+</div>
 
 {% assign aliases = page.aliases
 | default: page.name
