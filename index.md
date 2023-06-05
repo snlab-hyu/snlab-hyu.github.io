@@ -1,7 +1,7 @@
 ---
 ---
 
-# snlab-hyu's Website
+# snlab@HYU's Website
 
 An engaging 1-3 sentence description of your lab.
 
