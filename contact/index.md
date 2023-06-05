@@ -30,6 +30,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="https://goo.gl/maps/ra6dssaPsFm1usAz6"
 %}
 
+{% include map.html %}
+
 {% include section.html %}
 
 {% capture col1 %}
