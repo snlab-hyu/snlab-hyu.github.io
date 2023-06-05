@@ -17,7 +17,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ms" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.png" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
