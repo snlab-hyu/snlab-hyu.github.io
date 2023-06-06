@@ -1,6 +1,6 @@
 ---
 name: Seoyeon Lee
-image: images/members/seoyeon-lee.jpeg
+image: images/members/seoyeon-lee.jpg
 role: ms
 aliases:
 links:
