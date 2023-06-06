@@ -1,6 +1,6 @@
 ---
 name: Yewon Jang
-image: images/photo.jpg
+image: images/members/yewon-jang.jpeg
 role: undergrad
 aliases:
 links:
