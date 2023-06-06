@@ -1,6 +1,6 @@
 ---
 name: JIXING LIU
-image: images/photo.jpg
+image: images/members/jixing-liu.jpg
 role: ms
 aliases:
 links:
