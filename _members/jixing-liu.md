@@ -1,5 +1,5 @@
 ---
-name: JIXING LIU
+name: Jixing Liu
 image: images/members/jixing-liu.jpeg
 role: ms
 aliases:
