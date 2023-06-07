@@ -1,6 +1,6 @@
 ---
 name: Jiwon Chae
-image: images/photo.jpg
+image: images/members/jiwon-chae.jpeg
 role: ms
 aliases:
 links:
