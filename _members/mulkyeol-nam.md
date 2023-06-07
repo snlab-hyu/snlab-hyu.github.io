@@ -1,6 +1,6 @@
 ---
 name: Mulkyeol Nam
-image: images/photo.jpg
+image: images/members/mulkyeol-nam.jpeg
 role: undergrad
 aliases:
 links:
