@@ -1,7 +1,7 @@
 ---
 name: Jihun Choe
 image: images/members/jihun-choe.jpeg
-role: msphd
+role: phd
 aliases:
 links:
   home-page: 
