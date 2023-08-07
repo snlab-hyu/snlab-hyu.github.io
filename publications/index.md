@@ -11,7 +11,8 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Visualizing in deceased COVID-19 patients how SARS-CoV-2 attacks the respiratory
+    and olfactory mucosae but spares the olfactory bulb" style="rich" %}
 
 {% include section.html %}
 
