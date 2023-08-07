@@ -3,17 +3,6 @@
   description: 
   date: 2021-11-24
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867421012824-fx1.jpg
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
   repo: greenelab/meta-review
 
 - id: doi:10.1016/j.neuron.2021.05.032
