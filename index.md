@@ -1,7 +1,7 @@
 ---
 ---
 
-# Olaf lab @ HYU
+# Welcome to Olaf lab at Hanyanv University
 
 In our laboratory, we investigate various signaling pathways of the **olfactory system** and its **functional dynamics** while exploring the impact of olfactory signals on cognition and emotion. Additionally, we conduct research on the mechanisms underlying olfactory dysfunction caused by various factors.
 
