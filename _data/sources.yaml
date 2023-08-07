@@ -1,4 +1,19 @@
 - id: doi:10.1016/j.cell.2021.10.027
+  type: paper
+  description: 
+  date: 2021-11-24
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867421012824-fx1.jpg
+  tags:
+    - olfactory epithelium
+    - COVID-19
+  repo: greenelab/meta-review
+
 - id: doi:10.1016/j.neuron.2021.05.032
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627321004116-fx1.jpg
+
 - id: doi:10.1186/s13195-020-00730-2
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13195-020-00730-2/MediaObjects/13195_2020_730_Fig1_HTML.png?
+
+
 - id: doi:10.1038/s41598-020-68148-2
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-68148-2/MediaObjects/41598_2020_68148_Fig1_HTML.png?as=webp
