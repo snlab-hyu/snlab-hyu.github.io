@@ -1,0 +1,107 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1016/j.cell.2021.10.027
+  title: Visualizing in deceased COVID-19 patients how SARS-CoV-2 attacks the respiratory
+    and olfactory mucosae but spares the olfactory bulb
+  authors:
+  - Mona Khan
+  - Seung-Jun Yoo
+  - Marnick Clijsters
+  - Wout Backaert
+  - Arno Vanstapel
+  - Kato Speleman
+  - Charlotte Lietaer
+  - Sumin Choi
+  - Tyler D. Hether
+  - Lukas Marcelis
+  - Andrew Nam
+  - Liuliu Pan
+  - Jason W. Reeves
+  - Pauline Van Bulck
+  - Hai Zhou
+  - Marc Bourgeois
+  - Yves Debaveye
+  - Paul De Munter
+  - Jan Gunst
+  - Mark Jorissen
+  - Katrien Lagrou
+  - Natalie Lorent
+  - Arne Neyrinck
+  - Marijke Peetermans
+  - Dietmar Rudolf Thal
+  - Christophe Vandenbriele
+  - Joost Wauters
+  - Peter Mombaerts
+  - Laura Van Gerven
+  publisher: Cell
+  date: '2021-11-01'
+  link: https://doi.org/grpgrx
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867421012824-fx1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuron.2021.05.032
+  title: Danger perception and stress response through an olfactory sensor for the
+    bacterial metabolite hydrogen sulfide
+  authors:
+  - Kohei Koike
+  - Seung-Jun Yoo
+  - Katherin Bleymehl
+  - Masayo Omura
+  - Bolek Zapiec
+  - Martina Pyrski
+  - Thomas Blum
+  - Mona Khan
+  - Zhaodai Bai
+  - Trese Leinders-Zufall
+  - Peter Mombaerts
+  - Frank Zufall
+  publisher: Neuron
+  date: '2021-08-01'
+  link: https://doi.org/gskdsb
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627321004116-fx1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13195-020-00730-2
+  title: "Region-specific amyloid-\u03B2 accumulation in the olfactory system influences\
+    \ olfactory sensory neuronal dysfunction in 5xFAD mice"
+  authors:
+  - Gowoon Son
+  - Seung-Jun Yoo
+  - Shinwoo Kang
+  - Ameer Rasheed
+  - Da Hae Jung
+  - Hyunjun Park
+  - Bongki Cho
+  - Harry W. M. Steinbusch
+  - Keun-A Chang
+  - Yoo-Hun Suh
+  - Cheil Moon
+  publisher: Alzheimer's Research &amp; Therapy
+  date: '2021-01-04'
+  link: https://doi.org/gskdsc
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13195-020-00730-2/MediaObjects/13195_2020_730_Fig1_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-020-68148-2
+  title: "Longitudinal profiling of oligomeric A\u03B2 in human nasal discharge reflecting\
+    \ cognitive decline in probable Alzheimer\u2019s disease"
+  authors:
+  - Seung-Jun Yoo
+  - Gowoon Son
+  - Jisub Bae
+  - So Yeun Kim
+  - Yong Kyoung Yoo
+  - Dongsung Park
+  - Seung Yeop Baek
+  - Keun-A Chang
+  - Yoo-Hun Suh
+  - Yeong-Bae Lee
+  - Kyo Seon Hwang
+  - YoungSoo Kim
+  - Cheil Moon
+  publisher: Scientific Reports
+  date: '2020-07-08'
+  link: https://doi.org/gskdsd
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-68148-2/MediaObjects/41598_2020_68148_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
