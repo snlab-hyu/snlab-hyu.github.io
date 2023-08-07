@@ -1,6 +1,5 @@
 - id: doi:10.1016/j.cell.2021.10.027
   type: paper
-  description: 
   date: 2021-11-24
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867421012824-fx1.jpg
   repo: greenelab/meta-review
