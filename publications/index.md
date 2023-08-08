@@ -11,8 +11,6 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="" style="rich" %}
-
 {% include section.html %}
 
 ## All
