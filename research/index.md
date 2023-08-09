@@ -18,7 +18,10 @@ The sense of smell serves variety of important functions in everyday life. The o
 
 {% include section.html %}
 
-## More
+## CDS biomarker study - Diagnostic study in veterinary neurodegenerative diseases
+
+Cognitive dysfunction syndrome(CDS, also known as canine cognitive disorder) is a condition that occurs in elderly dogs and shows clinically similar patterns to human neurodegenerative disorders. However, there is currently no objective or precise diagnostic method for CDS, and much more needs to be learned about the condition.
+Our goal is to discover biomarkers that enable objective diagnosis of CDS. Based on the hypothesis that CDS shares similar features with human neurodegenerative diseases, and taking the pathological correlation between brain and nose into consideration, **we aim to utilize proteomics to discover and validate biomarkers in nasal discharge of dogs**.
 
 {% include section.html %}
 
