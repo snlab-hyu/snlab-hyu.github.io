@@ -2,7 +2,7 @@
 title: 2023 Immuno-Sensation Lab Workshop
 image: "/images/20230822_BRL_workshop/photo.png"
 date: 2023.08.22-23
-link: "_posts/2023-09-07-ksbns.md"
+link: "https://snlab-hyu.github.io/_posts/2023-09-07-ksbns.md"
 ---
 
 BRL workshop at beautiful Gangneung
