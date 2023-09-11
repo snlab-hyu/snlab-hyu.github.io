@@ -1,25 +1,22 @@
 .post-excerpt {
-  position: relative;
   display: inline-flex;
-  justify-content: center;
+  justify-content: stretch;
   align-items: center;
   flex-direction: column;
-  gap: 20px;
+  width: 350px;
+  max-width: calc(100% - 20px - 20px);
   margin: 20px;
-  padding: 20px 30px;
-  width: 50%;
-  border-radius: var(--rounded);
   background: var(--background);
-  text-align: center;
+  border-radius: var(--rounded);
+  overflow: hidden;
   box-shadow: var(--shadow);
+  vertical-align: top;
 }
 
 .post-image {
-  position: relative;
-  width: 50%;
-  flex-shrink: 0;
-  aspect-ratio: 1/1;
+  aspect-ratio: 3/2;
   object-fit: cover;
+  width: 100%;
 }
 
 .post-excerpt > * {
