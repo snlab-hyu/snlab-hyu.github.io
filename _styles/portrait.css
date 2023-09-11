@@ -3,35 +3,35 @@
 }
 
 .portrait {
-  position: relative;
   display: inline-flex;
-  justify-content: center;
+  justify-content: stretch;
   align-items: center;
   flex-direction: column;
-  gap: 20px;
-  margin: 20px;
-  width: 175px;
+  width: 350px;
   max-width: calc(100% - 20px - 20px);
-  text-decoration: none;
+  margin: 20px;
+  background: var(--background);
+  border-radius: var(--rounded);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  vertical-align: top;
 }
 
 .portrait[data-style=small] {
-  width: 100px;
+  width: 250px;
 }
 
 .portrait[data-style=tiny] {
   flex-direction: row;
   gap: 15px;
   width: unset;
-  text-align: left;
+  text-align: cemter;
 }
 
 .portrait-image {
-  width: 100%;
-  aspect-ratio: 1/1;
-  border-radius: 999px;
+  aspect-ratio: 3/2;
   object-fit: cover;
-  box-shadow: var(--shadow);
+  width: 100%;
 }
 
 .portrait[data-style=tiny] .portrait-image {
@@ -43,9 +43,13 @@
 }
 
 .portrait-text {
-  display: flex;
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
   flex-direction: column;
-  line-height: calc(var(--spacing) - 0.4);
+  gap: 20px;
+  max-width: 100%;
+  padding: 20px;
 }
 
 .portrait-name {
