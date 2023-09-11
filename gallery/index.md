@@ -9,4 +9,8 @@ nav:
 
 {% include section.html %}
 
+.column {
+  float: left;
+  width: 50%;
+}
 {% include list.html data="posts" component="post-excerpt" %}
