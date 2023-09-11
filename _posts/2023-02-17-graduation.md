@@ -1,6 +1,6 @@
 ---
 title: 2023 KSBNS
-image: "/images/20230822_BRL_workshop/photo.png"
+image: "/images/20230217_graduation/graduation.jpeg"
 date: 2023.02.07
 ---
 
