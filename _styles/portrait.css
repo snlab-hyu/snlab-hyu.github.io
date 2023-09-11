@@ -27,7 +27,6 @@
 }
 
 .portrait-image {
-  width: 100%;
   aspect-ratio: 1/1;
   border-radius: 999px;
   object-fit: cover;
@@ -55,17 +54,16 @@
 
 .portrait-role .icon {
   position: absolute;
-  left: 0;
-  top: 0;
+  left: 8px;
+  top: 8px;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 20%;
-  aspect-ratio: 1/1;
+  width: 2em;
+  height: 2em;
   border-radius: 999px;
   background: var(--background);
   box-shadow: var(--shadow);
-  transform: translate(14%, 14%);
 }
 
 .portrait[data-style=small] .portrait-role .icon {
