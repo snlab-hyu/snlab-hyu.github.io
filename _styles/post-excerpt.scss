@@ -1,7 +1,6 @@
 --- 
 --- 
 
-$thumb-size: 180px;
 
 .post-excerpt {
   display: flex;
@@ -17,9 +16,10 @@ $thumb-size: 180px;
 
 .post-image {
   position: relative;
-  width: $thumb-size;
+  width: 50px;
   flex-shrink: 0;
   aspect-ratio: 1 / 1;
+  object-fit: cover;
   box-shadow: var(--shadow);
 }
 
