@@ -5,5 +5,4 @@ date: 2023.08.22-23
 ---
 
 BRL workshop at beautiful Gangneung
-
-![["/images/20230822_BRL_workshop/photo.png"]]
+<img src="/images/20230822_BRL_workshop/photo.png" width="60%" height="40%">
