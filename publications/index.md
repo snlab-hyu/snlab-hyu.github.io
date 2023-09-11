@@ -9,10 +9,6 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
