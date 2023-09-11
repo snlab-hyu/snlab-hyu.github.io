@@ -1,7 +1,7 @@
 ---
 title: 2023 Jiwon & Seoyeon's Graduation
 image: "/images/20230217_graduation/graduation.jpeg"
-date: 2023.02.07
+date: '2023-02-07'
 ---
 
 Graduation of Jiwon Chae & Seoyeon Lee
