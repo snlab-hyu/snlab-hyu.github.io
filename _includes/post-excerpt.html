@@ -7,27 +7,13 @@
 <div class="post-excerpt">
   {% assign url = post.url %}
   {% assign title = post.title %}
-  <a href="{{ url | relative_url }}" class="post-image" aria-label="{{ post.title | default: 'post link' }}">
-    <img src="{{ post.image | relative_url }}" alt="{{ post.title | default: 'post image' }}" loading="lazy" {% include
-      fallback.html %}>
-  </a>
+  <a href="{{ url | relative_url }}">{{ title }}</a>
+
   {%
   include post-info.html
   published=post.date
   %}
 
-  {% assign excerpt = post.content
-  | default: ""
-  | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-  | default: post.excerpt
-  | default: ""
-  | strip_html
-  %}
-  {% assign search = post.content
-  | strip_html
-  | strip_newlines
-  | regex_strip
-  %}
   <p data-search="{{ search }}">
     {{ excerpt }}
   </p>
