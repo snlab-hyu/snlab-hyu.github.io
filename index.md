@@ -5,7 +5,7 @@
 
 In our laboratory, we investigate various signaling pathways of the **olfactory system** and its **functional dynamics** while exploring the impact of olfactory signals on cognition and emotion. Additionally, we conduct research on the mechanisms underlying olfactory dysfunction caused by various factors.
 
-{% include figure.html image="images/home.jpg" width="100%" %}
+{% include figure.html image="images/home.jpg" width="50%" %}
 
 {% include section.html %}
 
@@ -24,13 +24,6 @@ In our laboratory, we investigate various signaling pathways of the **olfactory 
   style="bare"
 %}
 
-{% 
-  include button.html 
-  link="research" 
-  text="See what we've published" 
-  icon="fas fa-arrow-right" 
-  flip=true 
-%} 
 
 {% endcapture %}
 
