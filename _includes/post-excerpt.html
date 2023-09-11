@@ -7,13 +7,10 @@
 <div class="post-excerpt">
   {% assign url = post.url %}
   {% assign title = post.title %}
-  <a href="{{ url | relative_url }}">{{ title }}
-    class="post-image"
-    >
-    <img src="{{post.image | relative_url}}" alt="{{post.title | default : post image }}" loading="lazy" {%include
-      fallback.html%}>
+  <a href="{{ url | relative_url }}" class="post-image" aria-label="{{ post.title | default: 'post link' }}">
+    <img src="{{ post.image | relative_url }}" alt="{{ post.title | default: 'post image' }}" loading="lazy" {% include
+      fallback.html %}>
   </a>
-
   {%
   include post-info.html
   published=post.date
