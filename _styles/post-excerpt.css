@@ -12,9 +12,10 @@
 
 .post-image {
   position: relative;
-  width: 180px;
+  width: 50px;
   flex-shrink: 0;
   aspect-ratio: 1/1;
+  object-fit: cover;
   box-shadow: var(--shadow);
 }
 
