@@ -7,14 +7,24 @@
 <div class="post-excerpt">
   {% assign url = post.url %}
   {% assign title = post.title %}
-  <a href="{{ url | relative_url }}">{{ title }}
 
+  
+  <a
+    {% if include.link %}
+      href="{{ include.link | relative_url }}"
+    {% endif %}
+    aria-label="{{ include.title | default: "card link" }}"
+    class="card-image"
+  >
     <img
-    src="{{ include.image | relative_url }}"
-    alt="{{ include.title | default: "card image" }}"
-    loading="lazy"
-    {% include fallback.html %}
+      src="{{ include.image | relative_url }}"
+      alt="{{ include.title | default: "card image" }}"
+      loading="lazy"
+      {% include fallback.html %}
     >
+  </a>
+
+  <a href="{{ url | relative_url }}">{{ title }}
 
   </a>
   
