@@ -12,10 +12,10 @@ BRL workshop at beautiful Gangneung
 
 <img src="/images/20230822_BRL_workshop/beach_photo.png" width="60%" height="40%">
 
-<img src="/images/20230822_BRL_workshop/professor.png" width="60%" height="40%">
+<img src="/images/20230822_BRL_workshop/professor.jpeg" width="60%" height="40%">
 
-<img src="/images/20230822_BRL_workshop/professor2.png" width="60%" height="40%">
+<img src="/images/20230822_BRL_workshop/professor2.jpeg" width="60%" height="40%">
 
-<img src="/images/20230822_BRL_workshop/sylee.png" width="60%" height="40%">
+<img src="/images/20230822_BRL_workshop/sylee.jpeg" width="60%" height="40%">
 
-<img src="/images/20230822_BRL_workshop/sylee2.png" width="60%" height="40%">
+<img src="/images/20230822_BRL_workshop/sylee2.jpeg" width="60%" height="40%">
