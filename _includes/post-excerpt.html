@@ -7,8 +7,17 @@
 <div class="post-excerpt">
   {% assign url = post.url %}
   {% assign title = post.title %}
-  <a href="{{ url | relative_url }}">{{ title }}</a>
+  <a href="{{ url | relative_url }}">{{ title }}
 
+    <img
+    src="{{ include.image | relative_url }}"
+    alt="{{ include.title | default: "card image" }}"
+    loading="lazy"
+    {% include fallback.html %}
+    >
+
+  </a>
+  
   {%
   include post-info.html
   published=post.date
