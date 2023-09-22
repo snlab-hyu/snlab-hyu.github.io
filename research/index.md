@@ -45,7 +45,7 @@ This project involves predicting the structures of the Erythropoietin Receptor a
 <img  src = "../images/js_bae_project.png">
 
 <span><b>{{ "Who are in this project?" }}</b></span>
-{% include list.html data="members" component="portrait" filters="name: Jinsik Bae,Jixing Liu" style="tiny" %}
+{% include list.html data="members" component="portrait" filters="name: Jinsik Bae,name: Jixing Liu" style="tiny" %}
 </div>
 
 {% include section.html %}
