@@ -17,7 +17,7 @@ The sense of smell serves variety of important functions in everyday life. The o
 <img  src = "../images/oe_proj.png">
 
 <div style="float: right; width: 30%;">
-<span>{{ "Who are in this project?" }}</span>
+<span><b>{{ "Who are in this project?" }}</b></span>
 {% include list.html data="members" component="portrait" filters="name: Seoyeon Lee" style="tiny" %}
 </div>
 
@@ -30,7 +30,7 @@ Cognitive dysfunction syndrome(CDS, also known as canine cognitive disorder) is 
 Our goal is to discover **biomarkers** that enable objective diagnosis of CDS. Based on the hypothesis that CDS shares similar features with human neurodegenerative diseases, and taking the **pathological correlation between brain and nose** into consideration, we aim to utilize proteomics to discover and validate biomarkers in nasal discharge of dogs.
 
 <div style="float: right; width: 30%;">
-<span>{{ "Who are in this project?" }}</span>
+<span><b>{{ "Who are in this project?" }}</b></span>
 {% include list.html data="members" component="portrait" filters="name: Jiwon Chae" style="tiny" %}
 </div>
 
@@ -42,11 +42,11 @@ The structure of proteins is a critical determinant of their function. In silico
 This project involves predicting the structures of the Erythropoietin Receptor and Erythropoietin- derived Peptide. It encompasses anticipating the receptor-ligand complex structure and the binding affinity upon docking. Furthermore, leveraging the predictions, in vitro experiments such as Nano ITC are conducted to validate the differences in signaling activity resulting from structural changes in the Epo Receptor.
 
 <div style="float: right; width: 30%;">
-<span><b>{{ "Who are in this project?" }}</b></span>
-{% include list.html data="members" component="portrait" filters="name: Jinsik Bae, Jixing Liu" style="tiny" %}
-</div>
-
 <img  src = "../images/js_bae_project.png">
+
+<span><b>{{ "Who are in this project?" }}</b></span>
+{% include list.html data="members" component="portrait" filters="name: Jinsik Bae,Jixing Liu" style="tiny" %}
+</div>
 
 {% include section.html %}
 
@@ -55,7 +55,7 @@ This project involves predicting the structures of the Erythropoietin Receptor a
 The olfactory system detects external environmental stimuli as chemical signals through olfactory receptors and induces appropriate responses. Similarly, the immune system triggers immune responses through immune cells that express chemosensory receptors. Olfactory receptors are one type of chemosensory receptors, and immune cells that express them have been sometimes reported recently. We search for immune cells that reside in the olfactory system, study their functions and roles, and also investigate whether they can directly sense external environmental stimuli and elicit systematic responses.
 
 <div style="float: right; width: 30%;">
-<span>{{ "Who are in this project?" }}</span>
+<span><b>{{ "Who are in this project?" }}</b></span>
 {% include list.html data="members" component="portrait" filters="name: Jihun Choe" style="tiny" %}
 </div>
 
