@@ -20,7 +20,7 @@ The sense of smell serves variety of important functions in everyday life. The o
 
 {%
   include portrait.html
-  member="Seoyeon Lee"
+  lookup="Seoyeon Lee"
   style="tiny"
 %}
 
