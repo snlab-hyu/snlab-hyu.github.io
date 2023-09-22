@@ -16,7 +16,9 @@ The sense of smell serves variety of important functions in everyday life. The o
 
 <img  src = "../images/oe_proj.png">
 
-{% include card.html data="members" component="portrait" filters="name: Seoyeon Lee" %}
+<div style="float: right; width: 30%;">
+{% include list.html data="members" component="portrait" filters="name: Seoyeon Lee" %}
+</div>
 
 {% include section.html %}
 
