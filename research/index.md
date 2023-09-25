@@ -41,11 +41,12 @@ Our goal is to discover **biomarkers** that enable objective diagnosis of CDS. B
 The structure of proteins is a critical determinant of their function. In silico methods are employed to ascertain the binding between receptors and ligands, predicting various structural changes and binding affinities that ensue.
 This project involves predicting the structures of the Erythropoietin Receptor and Erythropoietin- derived Peptide. It encompasses anticipating the receptor-ligand complex structure and the binding affinity upon docking. Furthermore, leveraging the predictions, in vitro experiments such as Nano ITC are conducted to validate the differences in signaling activity resulting from structural changes in the Epo Receptor.
 
-<div style="float: right; width: 30%;">
+
 <img  src = "../images/js_bae_project.png">
 
+<div style="float: right; width: 30%;">
 <span><b>{{ "Who are in this project?" }}</b></span>
-{% include list.html data="members" component="portrait" filters="name: Jinsik Bae,name: Jixing Liu" style="tiny" %}
+{% include list.html data="members" component="portrait" filters="name: Jinsik Bae, name: Jixing Liu" style="tiny" %}
 </div>
 
 {% include section.html %}
