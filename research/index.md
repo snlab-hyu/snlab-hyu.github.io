@@ -26,13 +26,6 @@ The sense of smell serves variety of important functions in everyday life. The o
 {% include section.html %}
 
 
-## CDS biomarker study - Diagnostic study in veterinary neurodegenerative diseases
-
-Cognitive dysfunction syndrome(CDS, also known as canine cognitive disorder) is a condition that occurs in elderly dogs and shows **clinically similar patterns to human neurodegenerative disorders**. However, there is currently no objective or precise diagnostic method for CDS, and much more needs to be learned about the condition.
-Our goal is to discover **biomarkers** that enable objective diagnosis of CDS. Based on the hypothesis that CDS shares similar features with human neurodegenerative diseases, and taking the **pathological correlation between brain and nose** into consideration, we aim to utilize proteomics to discover and validate biomarkers in nasal discharge of dogs.
-
-
-{% include section.html %}
 
 
 ## Prediction structure and Measurement of Kd Value between Receptor and Peptide
@@ -41,6 +34,22 @@ This project involves predicting the structures of the Erythropoietin Receptor a
 
 
 <img  src = "../images/js_bae_project.png">
+
+
+{% include section.html %}
+
+## Comparative Analysis of EPO and EPO-Derived Peptides: Insights into Signaling Pathway
+Initially known for its hematopoietic role, Erythropoietin (EPO) has garnered attention for its tissue-protective function, particularly in the nervous system, as confirmed by global research over the past two decades. Moreover, in clinical trials, the use of EPO for neurological disorders often leads to side effects like erythropoiesis. Hence, the neuroprotective EPO-derived peptides, which lack hematopoietic effects, have gained significant attention. Furthermore, these peptides exhibit distinct binding modes to the receptor and varying degrees of downstream signaling pathway activation compared to EPO. Therefore, we aim to employ bioinformatics approaches such as Bulk-RNAseq and proteomics to conduct a comparative analysis at the RNA and protein levels of downstream signaling pathways. This endeavor seeks to provide a deeper understanding of the modulation of downstream signaling pathways. The experiments are predominantly conducted in HEK cells and primary cultured rat cortical cells.
+
+
+<img  src = "../images/liu_project.png">
+
+
+{% include section.html %}
+## CDS biomarker study - Diagnostic study in veterinary neurodegenerative diseases
+
+Cognitive dysfunction syndrome(CDS, also known as canine cognitive disorder) is a condition that occurs in elderly dogs and shows **clinically similar patterns to human neurodegenerative disorders**. However, there is currently no objective or precise diagnostic method for CDS, and much more needs to be learned about the condition.
+Our goal is to discover **biomarkers** that enable objective diagnosis of CDS. Based on the hypothesis that CDS shares similar features with human neurodegenerative diseases, and taking the **pathological correlation between brain and nose** into consideration, we aim to utilize proteomics to discover and validate biomarkers in nasal discharge of dogs.
 
 
 {% include section.html %}
