@@ -7,7 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Research
 
-## PM
+## Beyond Smell: The Profound Influence of the Olfactory Connection on Brain Processes
+
+The olfactory epithelium establishes a complex relationship with the central nervous system, directly interfacing via a singular synaptic connection. This intricate interlinkage has been progressively illuminated to profoundly influence various functions and diverse processes within the brain. The routes and mechanisms through which olfactory neurons impact the brain's structure and functionality are multifaceted. In our laboratory, we are rigorously investigating these influences, taking into account both the physical connections and molecular dynamics between the olfactory epithelium and the brain.
+
+
+<img  src = "../images/olfactory_system_research.png">
+
 
 {% include section.html %}
 
@@ -16,10 +22,6 @@ The sense of smell serves variety of important functions in everyday life. The o
 
 <img  src = "../images/oe_proj.png">
 
-<div style="float: right; width: 30%;">
-<span><b>{{ "Who are in this project?" }}</b></span>
-{% include list.html data="members" component="portrait" filters="name: Seoyeon Lee" style="tiny" %}
-</div>
 
 {% include section.html %}
 
@@ -29,10 +31,6 @@ The sense of smell serves variety of important functions in everyday life. The o
 Cognitive dysfunction syndrome(CDS, also known as canine cognitive disorder) is a condition that occurs in elderly dogs and shows **clinically similar patterns to human neurodegenerative disorders**. However, there is currently no objective or precise diagnostic method for CDS, and much more needs to be learned about the condition.
 Our goal is to discover **biomarkers** that enable objective diagnosis of CDS. Based on the hypothesis that CDS shares similar features with human neurodegenerative diseases, and taking the **pathological correlation between brain and nose** into consideration, we aim to utilize proteomics to discover and validate biomarkers in nasal discharge of dogs.
 
-<div style="float: right; width: 30%;">
-<span><b>{{ "Who are in this project?" }}</b></span>
-{% include list.html data="members" component="portrait" filters="name: Jiwon Chae" style="tiny" %}
-</div>
 
 {% include section.html %}
 
@@ -44,19 +42,9 @@ This project involves predicting the structures of the Erythropoietin Receptor a
 
 <img  src = "../images/js_bae_project.png">
 
-<div style="float: right; width: 30%;">
-<span><b>{{ "Who are in this project?" }}</b></span>
-{% include list.html data="members" component="portrait" filters="name: Jinsik Bae, name: Jixing Liu" style="tiny" %}
-</div>
 
 {% include section.html %}
 
 ## Olfactory Receptors in Immune Cells: Sensing and Responding to Environmental Stimuli
 
 The olfactory system detects external environmental stimuli as chemical signals through olfactory receptors and induces appropriate responses. Similarly, the immune system triggers immune responses through immune cells that express chemosensory receptors. Olfactory receptors are one type of chemosensory receptors, and immune cells that express them have been sometimes reported recently. We search for immune cells that reside in the olfactory system, study their functions and roles, and also investigate whether they can directly sense external environmental stimuli and elicit systematic responses.
-
-<div style="float: right; width: 30%;">
-<span><b>{{ "Who are in this project?" }}</b></span>
-{% include list.html data="members" component="portrait" filters="name: Jihun Choe" style="tiny" %}
-</div>
-
