@@ -13,7 +13,6 @@ In our laboratory, we investigate various signaling pathways of the **olfactory 
 
 {% capture text %}
 
-채워야함
 
 {%
   include button.html
