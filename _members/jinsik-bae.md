@@ -1,6 +1,6 @@
 ---
 name: Jinsik Bae
-image: images/photo.jpg
+image: images/members/jinsik-bae.png
 role: undergrad
 aliases:
 links:

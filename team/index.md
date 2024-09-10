@@ -9,27 +9,27 @@ nav:
 
 {% include section.html %}
 
+## Principal Investigator
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 {% include section.html %}
 
+
+## Current Members
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: ms" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-{% include section.html background="images/background.png" dark=true %}
+{% include section.html %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Alumni
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
 
 {% include section.html %}
 
+
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 
