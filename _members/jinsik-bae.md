@@ -1,7 +1,7 @@
 ---
 name: Jinsik Bae
 image: images/members/jinsik-bae.png
-role: undergrad
+role: msphd
 aliases:
 links:
   home-page: https://janesmith.com
