@@ -1,7 +1,7 @@
 ---
 name: Mulgyeol Nam
 image: images/members/mulgyeol-nam.png
-role: alumni
+role: alumni_undergrad
 aliases:
 links:
   home-page: 

@@ -1,7 +1,7 @@
 ---
 name: Jixing Liu
 image: images/members/jixing-liu.jpeg
-role: alumni
+role: alumni_master
 aliases: 
 links:
   home-page: 
