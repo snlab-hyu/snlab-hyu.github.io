@@ -17,13 +17,8 @@ nav:
 
 ## Current Members
 
-{% include section.html %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
-
-{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: msphd" %}
 {% include list.html data="members" component="portrait" filters="role: ms" %}
-
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html %}
