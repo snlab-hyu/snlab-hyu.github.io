@@ -19,6 +19,10 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: msphd" %}
 {% include list.html data="members" component="portrait" filters="role: ms" %}
+
+{% include section.html %}
+
+## Interns
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html %}
