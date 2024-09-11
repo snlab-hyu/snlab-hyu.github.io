@@ -18,7 +18,7 @@ nav:
 ## Current Members
 
 {% include list.html data="members" component="portrait" filters="role: msphd" %}
-{% include list.html data="members" component="portrait" filters="role: ms" %}
+{% include list.html data="members" component="portrait" filters="role: master" %}
 
 {% include section.html %}
 
@@ -28,8 +28,6 @@ nav:
 {% include section.html %}
 
 ## Alumni
-
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
 {% include section.html %}

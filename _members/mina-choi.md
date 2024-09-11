@@ -1,7 +1,7 @@
 ---
 name: Mina Choi
 image: images/members/mulgyeol-nam.png
-role: ms
+role: master
 aliases:
 links:
   home-page: 
