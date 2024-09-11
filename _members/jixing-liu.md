@@ -1,8 +1,8 @@
 ---
 name: Jixing Liu
 image: images/members/jixing-liu.jpeg
-role: ms
-aliases:
+role: alumni
+aliases: 
 links:
   home-page: 
   orcid: 0
