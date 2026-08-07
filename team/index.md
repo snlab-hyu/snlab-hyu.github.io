@@ -7,29 +7,28 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Principal Investigator
+
+{% include portrait.html lookup="seungjun-yoo" %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Current Students
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include portrait.html lookup="doyoung-kim" %}
+{% include portrait.html lookup="eunseo-lee" %}
+{% include portrait.html lookup="jeongeon-park" %}
+{% include portrait.html lookup="jihun-choe" %}
+{% include portrait.html lookup="jinsik-bae" %}
+{% include portrait.html lookup="yoonseok-lee" %}
+{% include portrait.html lookup="mina-choi" %}
 
 {% include section.html %}
 
-{% capture content %}
+## Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include portrait.html lookup="seoyeon-lee" %}
+{% include portrait.html lookup="gayeon-kim" %}
+{% include portrait.html lookup="jiwon-chae" %}
+{% include portrait.html lookup="jixing-liu" %}
+{% include portrait.html lookup="mulgyeol-nam" %}

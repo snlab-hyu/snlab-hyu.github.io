@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
+$logo-big: 165px;
+$logo: 64px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -45,6 +45,10 @@ header a {
 .logo > * {
   width: unset;
   height: 100%;
+}
+
+.logo > img {
+  object-fit: contain;
 }
 
 .title-text {

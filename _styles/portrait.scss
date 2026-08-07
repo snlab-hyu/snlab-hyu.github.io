@@ -71,6 +71,16 @@
   font-weight: var(--semi-bold);
 }
 
+.portrait-description,
+.portrait-affiliation {
+  margin-top: 4px;
+}
+
+.portrait-affiliation {
+  color: var(--gray);
+  font-size: 0.85rem;
+}
+
 .portrait[data-style="tiny"] {
   .portrait-description,
   .portrait-affiliation {

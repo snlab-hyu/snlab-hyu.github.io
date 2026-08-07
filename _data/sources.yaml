@@ -1,23 +1,71 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1016/j.cell.2021.10.027
+  title: Visualizing in deceased COVID-19 patients how SARS-CoV-2 attacks the respiratory and olfactory mucosae but spares the olfactory bulb
+  authors:
+    - Mona Khan
+    - Seung-Jun Yoo
+    - Marnick Clijsters
+    - Wout Backaert
+    - Arno Vanstapel
+    - Dietmar Rudolf Thal
+    - Christophe Vandenbriele
+    - Joost Wauters
+    - Peter Mombaerts
+    - Laura Van Gerven
+  publisher: Cell
+  date: 2021-11-01
+  link: https://doi.org/grpgrx
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1016/j.neuron.2021.05.032
+  title: Danger perception and stress response through an olfactory sensor for the bacterial metabolite hydrogen sulfide
+  authors:
+    - Kohei Koike
+    - Seung-Jun Yoo
+    - Katherin Bleymehl
+    - Masayo Omura
+    - Bolek Zapiec
+    - Mona Khan
+    - Zhaodai Bai
+    - Trese Leinders-Zufall
+    - Peter Mombaerts
+    - Frank Zufall
+  publisher: Neuron
+  date: 2021-08-01
+  link: https://doi.org/gskdsb
+  type: paper
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1186/s13195-020-00730-2
+  title: Region-specific amyloid-β accumulation in the olfactory system influences olfactory sensory neuronal dysfunction in 5xFAD mice
+  authors:
+    - Gowoon Son
+    - Seung-Jun Yoo
+    - Shinwoo Kang
+    - Ameer Rasheed
+    - Da Hae Jung
+    - Bongki Cho
+    - Harry W. M. Steinbusch
+    - Keun-A Chang
+    - Yoo-Hun Suh
+    - Cheil Moon
+  publisher: Alzheimer's Research & Therapy
+  date: 2021-01-04
+  link: https://doi.org/gskdsc
+  type: paper
+
+- id: doi:10.1038/s41598-020-68148-2
+  title: Longitudinal profiling of oligomeric Aβ in human nasal discharge reflecting cognitive decline in probable Alzheimer’s disease
+  authors:
+    - Seung-Jun Yoo
+    - Gowoon Son
+    - Jisub Bae
+    - So Yeun Kim
+    - Yong Kyoung Yoo
+    - Yoo-Hun Suh
+    - Yeong-Bae Lee
+    - Kyo Seon Hwang
+    - YoungSoo Kim
+    - Cheil Moon
+  publisher: Scientific Reports
+  date: 2020-07-08
+  link: https://doi.org/gskdsd
+  type: paper

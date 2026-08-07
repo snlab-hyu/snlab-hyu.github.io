@@ -8,7 +8,19 @@ principal-investigator:
 
 postdoc:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Postdoctoral Fellow
+
+ms-phd:
+  icon: fa-solid fa-graduation-cap
+  description: MS/PhD Student
+
+master:
+  icon: fa-solid fa-user-graduate
+  description: Master's Student
+
+intern:
+  icon: fa-solid fa-flask
+  description: Intern
 
 phd:
   icon: fa-solid fa-graduation-cap

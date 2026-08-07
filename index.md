@@ -1,21 +1,14 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome to Olaf Lab at Hanyang
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+In our laboratory, we investigate various signaling pathways of the **olfactory system** and its **functional dynamics** while exploring the impact of olfactory signals on cognition and emotion. Additionally, we conduct research on the mechanisms underlying olfactory dysfunction caused by various factors.
 
 {%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  include figure.html
+  image="images/olaf/welcome-beach.png"
+  width="500px"
 %}
 
 {% include section.html %}
@@ -23,9 +16,6 @@ Spend less time worrying about managing a website and citations, and more time r
 ## Highlights
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="research"
@@ -39,16 +29,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/olaf/research-covid-olfactory.png"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="projects"
@@ -62,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/olaf/project-tissue-analysis.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -71,9 +58,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="team"
@@ -87,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/olaf/lab-team-ksbns-2023.png"
   link="team"
   title="Our Team"
   text=text

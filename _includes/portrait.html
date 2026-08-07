@@ -11,7 +11,7 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if page.slug != member.slug %}
+    {% if page.slug != member.slug and member.details != false %}
       href="{{ member.url | relative_url | uri_escape }}"
     {% endif %}
     class="portrait"

@@ -1,0 +1,53 @@
+---
+---
+
+.gallery-grid {
+  --repeat: 2;
+  align-items: stretch;
+  margin-top: 18px;
+}
+
+.gallery-grid .figure {
+  margin: 0;
+}
+
+.gallery-grid .figure-image {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 8px;
+  background: var(--light-gray);
+  box-shadow: 0 3px 12px #00000018;
+}
+
+.gallery-grid .figure-image img {
+  display: block;
+  width: 100% !important;
+  height: 300px;
+  max-height: none !important;
+  object-fit: cover;
+}
+
+.gallery-event-title {
+  margin: 28px 0 4px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.gallery-date {
+  margin: 0;
+  color: var(--gray);
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+@media (max-width: 650px) {
+  .gallery-grid {
+    --repeat: 1;
+  }
+
+  .gallery-grid .figure-image img {
+    height: 260px;
+  }
+}
