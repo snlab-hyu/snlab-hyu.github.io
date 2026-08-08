@@ -1,73 +1,82 @@
-# Generated citation data. Source records are maintained in _data/sources.yaml.
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1016/j.cell.2021.10.027
-  title: Visualizing in deceased COVID-19 patients how SARS-CoV-2 attacks the respiratory and olfactory mucosae but spares the olfactory bulb
+  title: Visualizing in deceased COVID-19 patients how SARS-CoV-2 attacks the respiratory
+    and olfactory mucosae but spares the olfactory bulb
   authors:
-    - Mona Khan
-    - Seung-Jun Yoo
-    - Marnick Clijsters
-    - Wout Backaert
-    - Arno Vanstapel
-    - Dietmar Rudolf Thal
-    - Christophe Vandenbriele
-    - Joost Wauters
-    - Peter Mombaerts
-    - Laura Van Gerven
+  - Mona Khan
+  - Seung-Jun Yoo
+  - Marnick Clijsters
+  - Wout Backaert
+  - Arno Vanstapel
+  - Dietmar Rudolf Thal
+  - Christophe Vandenbriele
+  - Joost Wauters
+  - Peter Mombaerts
+  - Laura Van Gerven
   publisher: Cell
-  date: 2021-11-01
+  date: '2021-11-01'
   link: https://doi.org/grpgrx
   type: paper
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.neuron.2021.05.032
-  title: Danger perception and stress response through an olfactory sensor for the bacterial metabolite hydrogen sulfide
+  title: Danger perception and stress response through an olfactory sensor for the
+    bacterial metabolite hydrogen sulfide
   authors:
-    - Kohei Koike
-    - Seung-Jun Yoo
-    - Katherin Bleymehl
-    - Masayo Omura
-    - Bolek Zapiec
-    - Mona Khan
-    - Zhaodai Bai
-    - Trese Leinders-Zufall
-    - Peter Mombaerts
-    - Frank Zufall
+  - Kohei Koike
+  - Seung-Jun Yoo
+  - Katherin Bleymehl
+  - Masayo Omura
+  - Bolek Zapiec
+  - Mona Khan
+  - Zhaodai Bai
+  - Trese Leinders-Zufall
+  - Peter Mombaerts
+  - Frank Zufall
   publisher: Neuron
-  date: 2021-08-01
+  date: '2021-08-01'
   link: https://doi.org/gskdsb
   type: paper
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13195-020-00730-2
-  title: Region-specific amyloid-β accumulation in the olfactory system influences olfactory sensory neuronal dysfunction in 5xFAD mice
+  title: "Region-specific amyloid-\u03B2 accumulation in the olfactory system influences\
+    \ olfactory sensory neuronal dysfunction in 5xFAD mice"
   authors:
-    - Gowoon Son
-    - Seung-Jun Yoo
-    - Shinwoo Kang
-    - Ameer Rasheed
-    - Da Hae Jung
-    - Bongki Cho
-    - Harry W. M. Steinbusch
-    - Keun-A Chang
-    - Yoo-Hun Suh
-    - Cheil Moon
+  - Gowoon Son
+  - Seung-Jun Yoo
+  - Shinwoo Kang
+  - Ameer Rasheed
+  - Da Hae Jung
+  - Bongki Cho
+  - Harry W. M. Steinbusch
+  - Keun-A Chang
+  - Yoo-Hun Suh
+  - Cheil Moon
   publisher: Alzheimer's Research & Therapy
-  date: 2021-01-04
+  date: '2021-01-04'
   link: https://doi.org/gskdsc
   type: paper
-
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41598-020-68148-2
-  title: Longitudinal profiling of oligomeric Aβ in human nasal discharge reflecting cognitive decline in probable Alzheimer’s disease
+  title: "Longitudinal profiling of oligomeric A\u03B2 in human nasal discharge reflecting\
+    \ cognitive decline in probable Alzheimer\u2019s disease"
   authors:
-    - Seung-Jun Yoo
-    - Gowoon Son
-    - Jisub Bae
-    - So Yeun Kim
-    - Yong Kyoung Yoo
-    - Yoo-Hun Suh
-    - Yeong-Bae Lee
-    - Kyo Seon Hwang
-    - YoungSoo Kim
-    - Cheil Moon
+  - Seung-Jun Yoo
+  - Gowoon Son
+  - Jisub Bae
+  - So Yeun Kim
+  - Yong Kyoung Yoo
+  - Yoo-Hun Suh
+  - Yeong-Bae Lee
+  - Kyo Seon Hwang
+  - YoungSoo Kim
+  - Cheil Moon
   publisher: Scientific Reports
-  date: 2020-07-08
+  date: '2020-07-08'
   link: https://doi.org/gskdsd
   type: paper
+  plugin: sources.py
+  file: sources.yaml
